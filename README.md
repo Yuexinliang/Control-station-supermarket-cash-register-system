@@ -1,2 +1,3 @@
-# Control-station-supermarket-cash-register-system
-java第一次小项目超市收银系统
+# JSoft_Project01
+
+## 吉软第一阶段项目介绍
